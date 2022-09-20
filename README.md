@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/wellstalks" target="blank"><img src="https://img.shields.io/twitter/follow/wellstalks?logo=twitter&style=for-the-badge" alt="wellstalks" /></a> </p>
 
-- 🔭 I’m currently working on **Guess the Flag (2nd project of Hacking with SwiftUI)**
+- 🔭 I’m currently working on **BetterRest (4th project of Hacking with SwiftUI)**
 
-- 🌱 I’m currently learning **SwiftUI**
+- 🌱 I’m currently learning **SwiftUI** through Hacking with SwiftUI
 
 - 💬 Ask me about **iOS, Swift**
 
