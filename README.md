@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **iOS, Swift**
 
-- 📫 How to reach me **wellsmjustin@gmail.com**
+- 📫 How to reach me **justinmwells@icloud.com**
 
 - ⚡ Fun fact **My favorite hobby is content creation!**
 
