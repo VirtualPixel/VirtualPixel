@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/wellstalks" target="blank"><img src="https://img.shields.io/twitter/follow/wellstalks?logo=twitter&style=for-the-badge" alt="wellstalks" /></a> </p>
 
-- 🔭 I’m currently working on **BetterRest (4th project of Hacking with SwiftUI)**
+- 🔭 I’m currently working on **iHelp for Allegheny County**
 
 - 🌱 I’m currently learning **SwiftUI** through Hacking with SwiftUI
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **justinmwells@icloud.com**
 
-- ⚡ Fun fact **My favorite hobby is content creation!**
+- ⚡ Fun fact **My favorite hobby is content creation! Editing/making videos, photography, and videography.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
