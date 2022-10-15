@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/wellstalks" target="blank"><img src="https://img.shields.io/twitter/follow/wellstalks?logo=twitter&style=for-the-badge" alt="wellstalks" /></a> </p>
 
-- 🔭 I’m currently working on **iHelp for Allegheny County - DHS**
+- 🔭 I’m currently working on **Habitus - A habit tracking application**
 
 - 🌱 I’m currently learning **SwiftUI** through Hacking with SwiftUI
 
