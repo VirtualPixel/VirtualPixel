@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Habitus - A habit tracking application**
 
-- 🌱 I’m currently learning **SwiftUI** through Hacking with SwiftUI
+- 🌱 I’m currently learning **SwiftUI** 
 
 - 💬 Ask me about **iOS, Swift**
 
