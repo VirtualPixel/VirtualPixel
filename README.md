@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **justinmwells@icloud.com**
 
-- ⚡ Fun fact **My favorite hobby is content creation! Editing/making videos, photography, and videography.**
+- ⚡ Fun fact **My favorite hobby is content creation! Editing/making videos, photography, videography, and game dev.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
