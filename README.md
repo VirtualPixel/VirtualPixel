@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Habitus - A habit tracking application**
 
-- 🌱 I’m currently reading **Pro Swift - by Paul Hudson** 
+- 🌱 I’m currently reading **Pro Swift by Paul Hudson** 
 
 - 💬 Ask me about **iOS, Swift**
 
