@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently reading **A Common-Sense Guide to Data Structures and Algorithms by Jay Wengrow** 
 
-- 💬 Ask me about **iOS, Swift**
+- 💬 Ask me about **iOS, SwiftUI**
 
 - 📫 How to reach me **justinmwells@icloud.com**
 
