@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/wellstalks" target="blank"><img src="https://img.shields.io/twitter/follow/wellstalks?logo=twitter&style=for-the-badge" alt="wellstalks" /></a> </p>
 
-- 🔭 I’m currently working on **ColorSense: Color Identification for Colorblind individuals and Designers**
+- 🔭 I’m currently working on **ColorSense: Color Identification**
 
 - 🌱 I’m currently reading **A Common-Sense Guide to Data Structures and Algorithms by Jay Wengrow** 
 
